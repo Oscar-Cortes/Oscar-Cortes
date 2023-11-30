@@ -1,18 +1,15 @@
-### Hi there 👋
+🔭 I’m currently working on developing predictive models for customer churn and fraud analytics using SAS and Python.
 
-<!--
-**Oscar-Cortes/Oscar-Cortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning about advanced machine learning techniques and staying updated with the latest developments in data science.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on projects related to predictive modeling, data analysis, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> Ask one thing
-https://user-images.githubusercontent.com/110885554/186362310-
-d5c6e677-5b67-49b2-bf77-e0f41e5b1949.png
+💬 Ask me about data science, SAS, Python, predictive modeling, churn analysis, fraud analytics, or anything related to data and analytics.
+
+📫 How to reach me: GitHub.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Im a long life learner
+
+Feel free to customize the above information to better reflect your experience and interests.
