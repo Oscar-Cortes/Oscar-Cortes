@@ -12,4 +12,4 @@
 
 ⚡ Fun fact: Im a long life learner
 
-Feel free to customize the above information to better reflect your experience and interests.
+
